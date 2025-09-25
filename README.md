@@ -66,7 +66,7 @@ La sécurité de vos données est notre priorité. **Facture Fly** met en œuvre
 - [Master Ivanic](https://github.com/masterivanic)
 - [Arthur](https://github.com/arthur277)
 - [Souleymane Sall](https://github.com/PvpaSall)
-- [Khadim mbacke FALL]([https://github.com/PvpaSall](https://github.com/BAMBA-FALL))
+- [Khadim mbacke FALL](https://github.com/BAMBA-FALL)
 
 ---
 
